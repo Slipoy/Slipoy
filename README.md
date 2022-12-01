@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I am a Frontend Developer ![image](https://user-images.githubusercontent.com/37183673/205009225-daa20585-af74-40e1-889e-d9d952479ad4.png)
+ from Ukraine.
 
 <!--
 **Slipoy/Slipoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
